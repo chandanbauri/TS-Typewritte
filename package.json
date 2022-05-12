@@ -1,0 +1,13 @@
+{
+  "name": "TS-Typewritter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc -p ."
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.4"
+  }
+}
